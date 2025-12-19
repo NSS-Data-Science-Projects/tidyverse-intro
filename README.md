@@ -25,7 +25,7 @@ Create a new R Notebook to complete this exercise.
 
 11. How many countries experienced a negative percent change in GDP per capita from 1990 to 2021?
 
-12. Which country had the highest % change in GDP per capita? Create a line plot showing these country's GDP per capita for all years for which you have data. Put both line charts on the same plot.
+12. Which country had the highest % change in GDP per capita? Which country had the second highest % change? Create a line plot showing these country's GDP per capita for all years for which you have data. Put both line charts on the same plot.
 
 13. Read in continents.csv contained in the `data` folder into a new tibble called `continents`. We will be using this tibble to add a new column to our dataset.
 
